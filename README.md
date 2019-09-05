@@ -6,3 +6,6 @@ Includes Sparkfun qwiic connectors (and headers).
 
 Designed in kicad.
 
+![top](top.png "top")
+
+![bottom](bottom.png "bottom")
